@@ -1,3 +1,5 @@
+# Title: Critical Security Vulnerability in XAMPP for Windows Default Apache Service Configuration
+
 # Table of Contents
 - [Description](#description)
 - [Issue Overview](#issue-overview)
@@ -15,8 +17,6 @@
   - [Create a Dedicated User](#create-a-dedicated-user)
   - [Assign Ownership](#assign-ownership)
   - [Modify Apache Service Configuration](#modify-apache-service-configuration)
-
-# Title: Critical Security Vulnerability in XAMPP for Windows Default Apache Service Configuration
 
 ## Description:
 > A critical security vulnerability has been identified in the default settings of the Apache service configuration within XAMPP on Windows systems. This flaw, discovered by Security Researcher Kaotickj, raises significant security concerns that could potentially compromise the integrity, confidentiality, and availability of Windows systems utilizing XAMPP. This report provides a comprehensive analysis of the vulnerability, its implications, a proof of concept, and a video demonstration, along with essential mitigation measures to protect users' environments.
