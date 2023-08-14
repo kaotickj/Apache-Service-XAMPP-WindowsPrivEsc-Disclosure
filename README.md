@@ -81,7 +81,46 @@ To mitigate this security vulnerability, it is advised to follow these steps:
 
 ### Create a Dedicated User:
 
-Create a new user with strong credentials, e.g., "web-manager."
+Create a new user with strong credentials, e.g., "web-manager.":
+### Create a New User:
+
+1. **Open User Accounts:**
+   - Open the Start menu and type "Control Panel," then press Enter.
+   - In the Control Panel, search for "User Accounts" and click on "User Accounts."
+
+2. **Manage User Accounts:**
+   - Click on "Manage another account."
+
+3. **Add a New User:**
+   - Click on the "Add a new user in PC settings" link.
+
+4. **Settings App - Family & other users:**
+   - Click on "Add someone else to this PC."
+
+5. **Microsoft Account or Local Account:**
+   - Select "I don't have this person's sign-in information."
+
+6. **Add a User Without a Microsoft Account:**
+   - Click on "Add a user without a Microsoft account."
+
+7. **Create a Username:**
+   - Enter the username "web-manager" in the "Username" field.
+   - Leave the password fields blank for now.
+
+8. **Finish Creating Account:**
+   - Click on "Next."
+
+9. **Set Password for the New User:**
+   - Back in "Manage Accounts," click on the "web-manager" account.
+   - Click on "Change the password."
+
+10. **Enter and Confirm Password:**
+    - Enter a strong password in the "New password" and "Reenter password" fields.
+    - You can also add a password hint.
+
+11. **Change Password:**
+    - Click on "Change password."
+
 ### Assign Ownership:
 - Open File Explorer:
 Open the File Explorer by pressing the Win + E keyboard shortcut or by clicking the File Explorer icon on your taskbar.
