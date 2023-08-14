@@ -1,3 +1,21 @@
+# Table of Contents
+- [Description](#description)
+- [Issue Overview](#issue-overview)
+  - [Impact and Criticality](#impact-and-criticality)
+- [Proof of Concept (PoC)](#proof-of-concept-poc)
+  - [Description of PoC](#description-of-poc)
+  - [Scenario Overview](#scenario-overview)
+  - [Detailed Steps Taken](#detailed-steps-taken)
+  - [Intent and Outcome](#intent-and-outcome)
+  - [Ethical Considerations](#ethical-considerations)
+- [Video Demonstration](#video-demonstration)
+- [Reproducible Environments](#reproducible-environments)
+- [Security Researcher](#security-researcher)
+- [Recommended Solution](#recommended-solution)
+  - [Create a Dedicated User](#create-a-dedicated-user)
+  - [Assign Ownership](#assign-ownership)
+  - [Modify Apache Service Configuration](#modify-apache-service-configuration)
+
 # Title: Critical Security Vulnerability in XAMPP for Windows Default Apache Service Configuration
 
 ## Description:
@@ -67,9 +85,7 @@ Accompanying this report is a video demonstration showcasing the process of iden
 
 [Proof of Concept Video](https://kdgwebsolutions.com/assets/img/videos/Apache-Service-XAMPP-WindowsPrivEsc-Disclosure.mp4)
 
-
 ## Reproducible Environments:
-
 - XAMPP versions tested: 5.6.3 - 8.2.4
 - Operating systems tested: Windows 7, Windows 8.1, Windows 10 (all up-to-date as of 8/14/2023)
 
@@ -166,4 +182,3 @@ Additional Notes:
 It's important to emphasize that this security vulnerability is specific to XAMPP instances running on Windows. On Linux systems, the Apache service adheres to Linux's least privilege standards, making this issue Windows-specific.
 
 It's crucial to emphasize the severity of this flaw, which exposes XAMPP installations on Windows systems to significant security risks. By following the recommended steps to create a dedicated user, assign ownership, and modify the Apache service configuration, users can substantially mitigate the security risks associated with the default configuration.
-
