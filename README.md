@@ -65,7 +65,7 @@ It is imperative to reiterate that this PoC adheres to ethical standards and res
 ## Video Demonstration:
 Accompanying this report is a video demonstration showcasing the process of identifying and exploiting the vulnerability within XAMPP's default configuration. The video provides a visual walkthrough of the steps involved in the PoC, emphasizing the ease with which the vulnerability can be exploited and the potential consequences.
 
-[Proof of Concept Video](https://kdgwebsolutions.com/Apache-Service-XAMPP-WindowsPrivEsc-Disclosure.mp4)
+[Proof of Concept Video](https://kdgwebsolutions.com/assets/img/videos/Apache-Service-XAMPP-WindowsPrivEsc-Disclosure.mp4)
 
 
 ## Reproducible Environments:
