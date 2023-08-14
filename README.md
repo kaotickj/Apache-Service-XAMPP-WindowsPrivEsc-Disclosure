@@ -82,8 +82,6 @@ To mitigate this security vulnerability, it is advised to follow these steps:
 ### Create a Dedicated User:
 
 Create a new user with strong credentials, e.g., "web-manager.":
-### Create a New User:
-
 1. **Open User Accounts:**
    - Open the Start menu and type "Control Panel," then press Enter.
    - In the Control Panel, search for "User Accounts" and click on "User Accounts."
