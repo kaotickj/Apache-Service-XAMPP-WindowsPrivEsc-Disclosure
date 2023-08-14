@@ -65,7 +65,7 @@ Used The Not So Simple PHP Command Shell to create a new user, set a password, a
 
 ##### e. Executing Metasploit Payload:
 
-Used The Not So Simple PHP Command Shell to upload and execute an msfvenom windows/meterpreter/reverse_tcp shell (venom.exe) to the system. Because venom.exe was executed as nt authority \ system, the reverse shell is also.
+Used The Not So Simple PHP Command Shell to upload and execute an msfvenom windows/meterpreter/reverse_tcp shell (venom.exe) to the system. Because venom.exe was executed as nt authority \ system, the reverse shell is also elevated.
 
 ##### f. Migrating to Elevated Process and Persistence:
 
