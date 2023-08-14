@@ -94,6 +94,7 @@ This critical security vulnerability was unearthed by Security Researcher Kaotic
 
 ## Recommended Solution:
 To mitigate this security vulnerability, it is advised to follow these steps:
+
 [Recommended Solution Video](https://kdgwebsolutions.com/assets/img/videos/how-to-fix-xampp-windows-service-running-with-elevated-privilege.mp4)
 
 ### Create a Dedicated User:
