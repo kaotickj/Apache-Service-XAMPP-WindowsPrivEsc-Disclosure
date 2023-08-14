@@ -65,6 +65,9 @@ It is imperative to reiterate that this PoC adheres to ethical standards and res
 ## Video Demonstration:
 Accompanying this report is a video demonstration showcasing the process of identifying and exploiting the vulnerability within XAMPP's default configuration. The video provides a visual walkthrough of the steps involved in the PoC, emphasizing the ease with which the vulnerability can be exploited and the potential consequences.
 
+![Video Proof of Concept](https://kdgwebsolutions.com/proof-of-concept-for-learning-management-system-exploits.mp4)
+
+
 ## Reproducible Environments:
 
 - XAMPP versions tested: 5.6.3 - 8.2.4
