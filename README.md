@@ -1,3 +1,4 @@
+![Critical Security Vulnerability in XAMPP for Windows Default Apache Service Configuration](critical-security-vulnerability-in-xampp-for-windows.png)
 # Title: Critical Security Vulnerability in XAMPP for Windows Default Apache Service Configuration
 
 # Table of Contents
