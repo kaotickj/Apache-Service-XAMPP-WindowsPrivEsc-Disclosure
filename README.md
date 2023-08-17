@@ -181,7 +181,7 @@ By following these steps, you will have assigned ownership of the XAMPP installa
 - Click OK to apply the changes.
 - Restart the Apache2 service by right-clicking it and selecting "Restart."
 
-Additional Notes:
+## Additional Notes:
 It's important to emphasize that this security vulnerability is specific to XAMPP instances running on Windows. On Linux systems, the Apache service adheres to Linux's least privilege standards, making this issue Windows-specific.
 
 It's crucial to emphasize the severity of this flaw, which exposes XAMPP installations on Windows systems to significant security risks. By following the recommended steps to create a dedicated user, assign ownership, and modify the Apache service configuration, users can substantially mitigate the security risks associated with the default configuration.
