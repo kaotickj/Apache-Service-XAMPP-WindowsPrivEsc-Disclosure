@@ -20,7 +20,7 @@
   - [Modify Apache Service Configuration](#modify-apache-service-configuration)
 
 ## Description:
-> A critical security vulnerability has been identified in the default settings of the Apache service configuration within XAMPP on Windows systems. This flaw, discovered by Security Researcher Kaotickj, raises significant security concerns that could potentially compromise the integrity, confidentiality, and availability of Windows systems utilizing XAMPP. This report provides a comprehensive analysis of the vulnerability, its implications, a proof of concept, and a video demonstration, along with essential mitigation measures to protect users' environments.
+> A critical security vulnerability has been identified in the default settings of the Apache service configuration within XAMPP on Windows systems. This flaw, discovered by Security Researcher Kaotick Jay, raises significant security concerns that could potentially compromise the integrity, confidentiality, and availability of Windows systems utilizing XAMPP. This report provides a comprehensive analysis of the vulnerability, its implications, a proof of concept, and a video demonstration, along with essential mitigation measures to protect users' environments.
 
 ## Issue Overview:
 The core of this vulnerability lies in the default "Log On" configuration for the Apache service, as established during XAMPP's installation via the control panel. By default, the service is configured to run under the local system account, which belongs to the nt authority\system built-in group. This configuration endows the Apache service with unwarranted elevated privileges, increasing the potential impact of any security breaches.
