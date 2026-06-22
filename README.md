@@ -84,7 +84,7 @@ It is imperative to reiterate that this PoC adheres to ethical standards and res
 ## Video Demonstration:
 Accompanying this report is a video demonstration showcasing the process of identifying and exploiting the vulnerability within XAMPP's default configuration. The video provides a visual walkthrough of the steps involved in the PoC, emphasizing the ease with which the vulnerability can be exploited and the potential consequences.
 
-[Proof of Concept Video](https://kdgwebsolutions.com/assets/img/videos/Apache-Service-XAMPP-WindowsPrivEsc-Disclosure.mp4)
+[Proof of Concept Video](https://zerovectorcyberdefense.com/assets/videos/Apache-Service-XAMPP-WindowsPrivEsc-Disclosure.mp4)
 
 ## Reproducible Environments:
 - XAMPP versions tested: 5.6.3 - 8.2.4
@@ -96,7 +96,7 @@ This critical security vulnerability was unearthed by Security Researcher Kaotic
 ## Recommended Solution:
 To mitigate this security vulnerability, it is advised to follow these steps:
 
-[Recommended Solution Video](https://kdgwebsolutions.com/assets/img/videos/how-to-fix-xampp-windows-service-running-with-elevated-privilege.mp4)
+[Recommended Solution Video](https://zerovectorcyberdefense.com/assets/videos/how-to-fix-xampp-windows-service-running-with-elevated-privilege.mp4)
 
 ### Create a Dedicated User:
 
